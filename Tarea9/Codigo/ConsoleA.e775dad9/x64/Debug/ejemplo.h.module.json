@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ConsoleA.e775dad9\\x64\\Debug\\ejemplo.h.obj",
+            "outputs": [
+                "C:\\Users\\tiago\\Desktop\\ConsoleApplication1 1\\ConsoleApplication1\\ConsoleA.e775dad9\\x64\\Debug\\vc143.pdb",
+                "ConsoleA.e775dad9\\x64\\Debug\\",
+                "C:\\Users\\tiago\\Desktop\\ConsoleApplication1 1\\ConsoleApplication1\\ConsoleA.e775dad9\\x64\\Debug\\ejemplo.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "ejemplo.h",
+                    "source-path": "c:\\users\\tiago\\desktop\\consoleapplication1 1\\consoleapplication1\\ejemplo.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

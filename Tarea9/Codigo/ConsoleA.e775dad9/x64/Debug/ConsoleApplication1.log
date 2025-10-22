@@ -1,0 +1,322 @@
+﻿  main.cpp
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(37,125): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(37,125): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(37,125): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(37,125): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(37,125): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(37,108): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(37,108): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(37,108): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(37,108): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(37,108): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(59,97): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(59,97): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(59,97): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(59,97): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(59,97): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(59,80): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(59,80): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(59,80): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(59,80): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Nearest_Neighbor.h(59,80): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(38,30): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(45,56): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(45,56): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(45,56): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(45,56): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(45,56): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(45,51): warning C4244: 'argumento': conversión de 'double' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(45,51): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(45,51): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(45,51): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(45,51): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(52,129): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(52,129): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(52,129): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(52,129): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(52,129): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(52,112): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(52,112): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(52,112): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(52,112): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(52,112): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(69,59): warning C4244: 'argumento': conversión de 'const double' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(69,59): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(69,59): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(69,59): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(69,59): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(69,48): warning C4244: 'argumento': conversión de 'const double' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(69,48): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(69,48): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(69,48): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(69,48): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(70,61): warning C4244: 'argumento': conversión de 'const double' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(70,61): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(70,61): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(70,61): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(70,61): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(70,49): warning C4244: 'argumento': conversión de 'const double' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(70,49): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(70,49): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(70,49): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(70,49): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(139,12): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(140,12): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(152,21): warning C4244: 'inicializando': conversión de 'double' a '__int64'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(161,18): warning C4244: 'inicializando': conversión de 'double' a '__int64'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(161,37): warning C4244: 'inicializando': conversión de 'double' a '__int64'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(162,18): warning C4244: 'inicializando': conversión de 'double' a '__int64'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(162,37): warning C4244: 'inicializando': conversión de 'double' a '__int64'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(163,18): warning C4244: 'inicializando': conversión de 'double' a '__int64'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(163,37): warning C4244: 'inicializando': conversión de 'double' a '__int64'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Voronoi.h(187,19): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Convex_Hull.h(55,90): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Convex_Hull.h(55,90): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Convex_Hull.h(55,90): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Convex_Hull.h(55,90): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Convex_Hull.h(55,90): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Convex_Hull.h(55,73): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Convex_Hull.h(55,73): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Convex_Hull.h(55,73): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Convex_Hull.h(55,73): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Convex_Hull.h(55,73): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(66,90): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(66,90): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(66,90): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(66,90): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(66,90): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(66,73): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(66,73): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(66,73): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(66,73): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(66,73): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(75,71): warning C4267: 'argumento': conversión de 'size_t' a '_Ty'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(75,71): warning C4267:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(75,71): warning C4267:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(75,71): warning C4267:             _Ty=int
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Intersection.h(75,71): warning C4267:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Point_In_Polygon.h(47,90): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Point_In_Polygon.h(47,90): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Point_In_Polygon.h(47,90): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Point_In_Polygon.h(47,90): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Point_In_Polygon.h(47,90): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Point_In_Polygon.h(47,73): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Point_In_Polygon.h(47,73): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Point_In_Polygon.h(47,73): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Point_In_Polygon.h(47,73): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Point_In_Polygon.h(47,73): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(50,125): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(50,125): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(50,125): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(50,125): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(50,125): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(50,108): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(50,108): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(50,108): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(50,108): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(50,108): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(64,95): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(64,95): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(64,95): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(64,95): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(64,95): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(64,78): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(64,78): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(64,78): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(64,78): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\Range_Search.h(64,78): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(142,105): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(142,105): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(142,105): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(142,105): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(142,105): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(142,84): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(142,84): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(142,84): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(142,84): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(142,84): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(146,99): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(146,99): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(146,99): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(146,99): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(146,99): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(146,78): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(146,78): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(146,78): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(146,78): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(146,78): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(150,96): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(150,96): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(150,96): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(150,96): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(150,96): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(150,75): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(150,75): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(150,75): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(150,75): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(150,75): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(154,98): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(154,98): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(154,98): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(154,98): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(154,98): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(154,77): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(154,77): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(154,77): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(154,77): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(154,77): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(158,108): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(158,108): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(158,108): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(158,108): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(158,108): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(158,87): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(158,87): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(158,87): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(158,87): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(158,87): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(162,100): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(162,100): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(162,100): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(162,100): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(162,100): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(162,79): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(162,79): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(162,79): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(162,79): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(162,79): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(166,102): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(166,102): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(166,102): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(166,102): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(166,102): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(166,81): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(166,81): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(166,81): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(166,81): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\menu.h(166,81): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(36,114): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(36,114): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(36,114): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(36,114): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(36,114): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(36,93): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(36,93): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(36,93): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(36,93): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(36,93): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(39,111): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(39,111): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(39,111): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(39,111): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(39,111): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(39,90): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(39,90): warning C4244:         with
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(39,90): warning C4244:         [
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(39,90): warning C4244:             T=float
+C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\MenuPrincipal.h(39,90): warning C4244:         ]
+  (compilando archivo de origen "main.cpp")
+  
+  ConsoleApplication1.vcxproj -> C:\Users\tiago\Desktop\ConsoleApplication1 1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

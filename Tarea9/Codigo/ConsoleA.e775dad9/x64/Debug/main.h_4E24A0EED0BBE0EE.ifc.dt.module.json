@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ConsoleA.e775dad9\\x64\\Debug\\main.obj",
+            "outputs": [
+                "ConsoleA.e775dad9\\x64\\Debug\\main.h_4E24A0EED0BBE0EE.ifc.dt.module.json",
+                "ConsoleA.e775dad9\\x64\\Debug\\main.h_4E24A0EED0BBE0EE.ifc.dt.d.json",
+                "ConsoleA.e775dad9\\x64\\Debug\\main.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\tiago\\Desktop\\ConsoleApplication1 1\\ConsoleApplication1\\main.h",
+                    "source-path": "c:\\users\\tiago\\desktop\\consoleapplication1 1\\consoleapplication1\\main.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}

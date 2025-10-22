@@ -1,0 +1,22 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ConsoleA.e775dad9\\x64\\Debug\\ejemplo.obj",
+            "outputs": [
+                "ConsoleA.e775dad9\\x64\\Debug\\ejemplo.h_83A6E5C7E144DA03.ifc.dt.module.json",
+                "ConsoleA.e775dad9\\x64\\Debug\\ejemplo.h_83A6E5C7E144DA03.ifc.dt.d.json",
+                "ConsoleA.e775dad9\\x64\\Debug\\ejemplo.h.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\Users\\tiago\\Desktop\\ConsoleApplication1 1\\ConsoleApplication1\\ejemplo.h",
+                    "source-path": "c:\\users\\tiago\\desktop\\consoleapplication1 1\\consoleapplication1\\ejemplo.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
+}
