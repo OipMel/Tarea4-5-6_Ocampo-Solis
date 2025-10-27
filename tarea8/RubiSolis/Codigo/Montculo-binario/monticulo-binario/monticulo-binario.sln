@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "monticulo-binario", "monticulo-binario.vcxproj", "{4D3C53C2-2CBD-47AD-B0FC-032F181452DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D3C53C2-2CBD-47AD-B0FC-032F181452DC}.Debug|x64.ActiveCfg = Debug|x64
+		{4D3C53C2-2CBD-47AD-B0FC-032F181452DC}.Debug|x64.Build.0 = Debug|x64
+		{4D3C53C2-2CBD-47AD-B0FC-032F181452DC}.Debug|x86.ActiveCfg = Debug|Win32
+		{4D3C53C2-2CBD-47AD-B0FC-032F181452DC}.Debug|x86.Build.0 = Debug|Win32
+		{4D3C53C2-2CBD-47AD-B0FC-032F181452DC}.Release|x64.ActiveCfg = Release|x64
+		{4D3C53C2-2CBD-47AD-B0FC-032F181452DC}.Release|x64.Build.0 = Release|x64
+		{4D3C53C2-2CBD-47AD-B0FC-032F181452DC}.Release|x86.ActiveCfg = Release|Win32
+		{4D3C53C2-2CBD-47AD-B0FC-032F181452DC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1859C1B-96BD-40EB-8A9A-40A63778D0F2}
+	EndGlobalSection
+EndGlobal
