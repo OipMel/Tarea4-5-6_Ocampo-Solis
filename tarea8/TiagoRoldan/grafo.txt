@@ -1,0 +1,33 @@
+DIRECTIONAL 0
+NODES
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+EDGES
+A B 40
+A C 18
+A D 30
+B C 7
+B E 12
+C D 20
+C F 9
+D G 50
+D F 10
+E L 45
+E J 1
+F G 46
+F J 18
+F L 18
+G K 15
+H I 3
+H J 29
+H K 2
