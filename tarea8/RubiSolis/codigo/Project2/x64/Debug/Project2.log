@@ -1,3 +1,0 @@
-﻿  Source.cpp
-C:\Users\el_wa\Downloads\AEDII\rubisolis\Project2\Source.cpp(20,19): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
-LINK : fatal error LNK1104: no se puede abrir el archivo 'sfml-graphics-d.lib sfml-window-d.lib sfml-system-d.lib'
