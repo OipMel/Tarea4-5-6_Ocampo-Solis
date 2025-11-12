@@ -1,0 +1,29 @@
+﻿  Tarea_10_ROS.cpp
+C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\Hill.h(1,1): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Tarea_10_ROS.cpp")
+  
+C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\Affin.h(1,1): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Tarea_10_ROS.cpp")
+  
+C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\Generaciones.h(1,1): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+  (compilando archivo de origen "Tarea_10_ROS.cpp")
+  
+C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\kmp.h(130,11): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Tarea_10_ROS.cpp")
+  
+C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\Booyer_Moore.h(32,34): warning C4267: 'argumento': conversión de 'size_t' a 'const _Ty'; posible pérdida de datos
+C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\Booyer_Moore.h(32,34): warning C4267:         with
+C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\Booyer_Moore.h(32,34): warning C4267:         [
+C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\Booyer_Moore.h(32,34): warning C4267:             _Ty=int
+C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\Booyer_Moore.h(32,34): warning C4267:         ]
+  (compilando archivo de origen "Tarea_10_ROS.cpp")
+  
+C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\Booyer_Moore.h(39,15): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Tarea_10_ROS.cpp")
+  
+C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\Booyer_Moore.h(40,15): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  (compilando archivo de origen "Tarea_10_ROS.cpp")
+  
+C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\Tarea_10_ROS.cpp(197,13): warning C4566: el carácter representado por el nombre de carácter universal '\uFFFD' no se puede representar en la página de códigos actual (1252)
+C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\Tarea_10_ROS.cpp(201,17): warning C4566: el carácter representado por el nombre de carácter universal '\uFFFD' no se puede representar en la página de códigos actual (1252)
+  Proyecto_Tarea_10_Roldan_Ocampo_.vcxproj -> C:\Users\Caro\Desktop\Proyecto_Tarea_10_Roldan_Ocampo_\x64\Debug\Proyecto_Tarea_10_Roldan_Ocampo_Solis.exe
