@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\el_wa\OneDrive\Desktop\RUBI\AEDII\Practico-Monticulo\rubisolis\Project2\Source.cpp(18,40): warning C4267: 'return': conversión de 'size_t' a 'int'; posible pérdida de datos
+C:\Users\el_wa\OneDrive\Desktop\RUBI\AEDII\Practico-Monticulo\rubisolis\Project2\Source.cpp(62,19): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\el_wa\OneDrive\Desktop\RUBI\AEDII\Practico-Monticulo\rubisolis\Project2\Source.cpp(63,22): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\el_wa\OneDrive\Desktop\RUBI\AEDII\Practico-Monticulo\rubisolis\Project2\Source.cpp(65,17): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\el_wa\OneDrive\Desktop\RUBI\AEDII\Practico-Monticulo\rubisolis\Project2\Source.cpp(66,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\el_wa\OneDrive\Desktop\RUBI\AEDII\Practico-Monticulo\rubisolis\Project2\Source.cpp(106,29): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\el_wa\OneDrive\Desktop\RUBI\AEDII\Practico-Monticulo\rubisolis\Project2\Source.cpp(183,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\el_wa\OneDrive\Desktop\RUBI\AEDII\Practico-Monticulo\rubisolis\Project2\Source.cpp(192,65): warning C4244: 'argumento': conversión de 'unsigned __int64' a 'float'; posible pérdida de datos
+  Project2.vcxproj -> C:\Users\el_wa\OneDrive\Desktop\RUBI\AEDII\Practico-Monticulo\rubisolis\Project2\x64\Debug\Project2.exe
